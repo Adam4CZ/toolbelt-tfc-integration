@@ -26,6 +26,6 @@ New pouch recipe supports TFC items and gold changed to bronze
 - tool belt
 - pouch  
   
-![Belt upgrading recipe](https://github.com/Adam4CZ/toolbelt-tfc-integration/blob/1.20.x/img/belt-upgrading-recipe.png)
+![Belt upgrade recipe](https://github.com/Adam4CZ/toolbelt-tfc-integration/blob/1.20.x/img/belt-upgrade-recipe.png)
 
 </details>
