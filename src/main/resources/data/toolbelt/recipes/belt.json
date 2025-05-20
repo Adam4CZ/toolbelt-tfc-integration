@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY",
+    "X X",
+    "XZX"
+  ],
+  "key": {
+    "X": { "tag": "tfc:leather_knapping" },
+    "Y": { "tag": "forge:string" },
+    "Z": { "item": "tfc:metal/ingot/wrought_iron" }
+  },
+  "result": {
+    "item": "toolbelt:belt"
+  }
+}

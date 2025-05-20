@@ -1,0 +1,10 @@
+{
+  "type": "toolbelt_tfc_integration:toolbelt_upgrade",
+  "belt": { "item": "toolbelt:belt" },
+  "pouch": { "item": "toolbelt:pouch" },
+  "string": { "tag": "forge:string" },
+  "needle": { "item": "tfc:bone_needle" },
+  "result": {
+    "item": "toolbelt:belt"
+  }
+}
