@@ -1,6 +1,3 @@
-# TFC Season Notifier
+# Tool Belt + TFC Integration
 
-A simple TerraFirmaCraft addon that displays a customizable notification whenever the in-game season (month) changes.
-Perfect for players who want seasonal reminders for planting, harvesting, or preparing for winter.
-
-Titles and subtitle messages are configurable in the config file of the mod (in the /config/ folder).
+A simple integration mod between Toolbelt and TerraFirmaCraft mods. It adds modified recipies for belt and pouch, as well as belt upgrading funcionality.
